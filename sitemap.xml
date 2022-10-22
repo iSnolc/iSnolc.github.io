@@ -137,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C1/index.html</loc>
+    
+    <lastmod>2022-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://isnolc.github.io/tags/index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C3/index.html</loc>
-    
-    <lastmod>2022-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C1/index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
     
