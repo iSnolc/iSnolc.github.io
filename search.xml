@@ -171,18 +171,18 @@
     
     
     <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
     </entry>
     
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
       
     </entry>
     
@@ -199,8 +199,8 @@
     
     <entry>
       <title></title>
-      <link href="/html/404index.html"/>
-      <url>/html/404index.html</url>
+      <link href="/css/b-link.css"/>
+      <url>/css/b-link.css</url>
       
     </entry>
     
@@ -217,8 +217,8 @@
     
     <entry>
       <title></title>
-      <link href="/css/b-link.css"/>
-      <url>/css/b-link.css</url>
+      <link href="/html/404index.html"/>
+      <url>/html/404index.html</url>
       
     </entry>
     
@@ -228,6 +228,15 @@
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/ali_font.js"/>
+      <url>/js/ali_font.js</url>
       
     </entry>
     
@@ -261,9 +270,9 @@
     
     
     <entry>
-      <title>图册2</title>
-      <link href="/gallery/%E5%9B%BE%E5%86%8C2/index.html"/>
-      <url>/gallery/%E5%9B%BE%E5%86%8C2/index.html</url>
+      <title>图册3</title>
+      <link href="/gallery/%E5%9B%BE%E5%86%8C3/index.html"/>
+      <url>/gallery/%E5%9B%BE%E5%86%8C3/index.html</url>
       
     </entry>
     
@@ -279,18 +288,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/ali_font.js"/>
-      <url>/js/ali_font.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>图册3</title>
-      <link href="/gallery/%E5%9B%BE%E5%86%8C3/index.html"/>
-      <url>/gallery/%E5%9B%BE%E5%86%8C3/index.html</url>
+      <title>图册2</title>
+      <link href="/gallery/%E5%9B%BE%E5%86%8C2/index.html"/>
+      <url>/gallery/%E5%9B%BE%E5%86%8C2/index.html</url>
       
     </entry>
     
