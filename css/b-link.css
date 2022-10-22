@@ -1,0 +1,28 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+.iframe-box {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.vedio {
+  width: 100%;
+  /* 因为要隐藏下面的提示，所有多加 40px, 如果要隐藏控件就多加 30px */
+  height: calc(100vh + 40px);
+  min-height: 300px;
+  position: relative;
+  padding: 0;
+  overflow: hidden;
+  margin: 0;
+  box-sizing: border-box;
+}
+  .vedio-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+

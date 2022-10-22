@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>尚立川</title>
+  <icon>https://isnolc.github.io/icon.png</icon>
+  <subtitle>这是尚立川的个人blog</subtitle>
+  <link href="https://isnolc.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://isnolc.github.io/"/>
+  <updated>2022-10-22T07:19:15.066Z</updated>
+  <id>https://isnolc.github.io/</id>
+  
+  <author>
+    <name>尚立川</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分栏tab</title>
+    <link href="https://isnolc.github.io/posts/7412cad7.html"/>
+    <id>https://isnolc.github.io/posts/7412cad7.html</id>
+    <published>2022-10-22T06:50:52.000Z</published>
+    <updated>2022-10-22T07:19:15.066Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里图标库</title>
+    <link href="https://isnolc.github.io/posts/e68ca67d.html"/>
+    <id>https://isnolc.github.io/posts/e68ca67d.html</id>
+    <published>2022-10-22T06:31:38.000Z</published>
+    <updated>2022-10-22T06:45:26.105Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站卡片</title>
+    <link href="https://isnolc.github.io/posts/e196ab9a.html"/>
+    <id>https://isnolc.github.io/posts/e196ab9a.html</id>
+    <published>2022-10-22T06:30:45.000Z</published>
+    <updated>2022-10-22T06:44:55.250Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>外挂音频</title>
+    <link href="https://isnolc.github.io/posts/a4139db5.html"/>
+    <id>https://isnolc.github.io/posts/a4139db5.html</id>
+    <published>2022-10-22T06:29:37.000Z</published>
+    <updated>2022-10-22T06:45:12.016Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>连接卡片</title>
+    <link href="https://isnolc.github.io/posts/f34b61f0.html"/>
+    <id>https://isnolc.github.io/posts/f34b61f0.html</id>
+    <published>2022-10-22T06:28:26.000Z</published>
+    <updated>2022-10-22T06:45:16.784Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>播放视频</title>
+    <link href="https://isnolc.github.io/posts/de247a1c.html"/>
+    <id>https://isnolc.github.io/posts/de247a1c.html</id>
+    <published>2022-10-15T10:50:12.000Z</published>
+    <updated>2022-10-22T06:45:20.665Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>旋转相册</title>
+    <link href="https://isnolc.github.io/posts/2d0d961a.html"/>
+    <id>https://isnolc.github.io/posts/2d0d961a.html</id>
+    <published>2022-10-13T11:14:17.000Z</published>
+    <updated>2022-10-22T07:08:13.468Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>外链播放模板(B站)</title>
+    <link href="https://isnolc.github.io/posts/701f3d2f.html"/>
+    <id>https://isnolc.github.io/posts/701f3d2f.html</id>
+    <published>2022-10-13T08:28:32.363Z</published>
+    <updated>2022-10-22T06:45:00.085Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://isnolc.github.io/posts/4a17b156.html"/>
+    <id>https://isnolc.github.io/posts/4a17b156.html</id>
+    <published>2022-10-13T08:28:32.361Z</published>
+    <updated>2022-10-13T11:39:48.591Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>外链播放测试</title>
+    <link href="https://isnolc.github.io/posts/4b0c39bf.html"/>
+    <id>https://isnolc.github.io/posts/4b0c39bf.html</id>
+    <published>2022-09-28T12:07:05.000Z</published>
+    <updated>2022-10-22T06:45:05.494Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="标签外挂大全" scheme="https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+</feed>
