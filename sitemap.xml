@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://isnolc.github.io/posts/b1839d6.html</loc>
+    
+    <lastmod>2022-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://isnolc.github.io/posts/36ef093e.html</loc>
     
     <lastmod>2022-10-22</lastmod>
@@ -119,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://isnolc.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://isnolc.github.io/html/404index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://isnolc.github.io/gallery/index.html</loc>
+    <loc>https://isnolc.github.io/categories/index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C2/index.html</loc>
+    <loc>https://isnolc.github.io/gallery/index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
     
@@ -165,6 +165,15 @@
   
   <url>
     <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C1/index.html</loc>
+    
+    <lastmod>2022-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://isnolc.github.io/gallery/%E5%9B%BE%E5%86%8C2/index.html</loc>
     
     <lastmod>2022-10-13</lastmod>
     
@@ -184,7 +193,7 @@
 
   <url>
     <loc>https://isnolc.github.io/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -193,8 +202,15 @@
 
   
   <url>
+    <loc>https://isnolc.github.io/categories/uncategorized/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://isnolc.github.io/categories/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82%E5%A4%A7%E5%85%A8/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
